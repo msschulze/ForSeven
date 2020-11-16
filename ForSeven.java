@@ -15,9 +15,9 @@ public class ForSeven
         {
             System.out.println(i);
         }
-        for (int i = 6; i >= 0; i--)
+        for (int j = 6; j >= 0; j--)
         {
-            System.out.println(i);
+            System.out.println(j);
         }
     }
 }
